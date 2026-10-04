@@ -1,1 +1,1 @@
-Hier werden großartige 3D-Modelle des CanSats gespeichert!
+Hier werden wichtige Informationen über die Hardware des CanSats gespeichert.
